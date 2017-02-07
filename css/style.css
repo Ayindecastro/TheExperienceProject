@@ -1005,6 +1005,7 @@ ul.portfolio-image li .desc{
   height: 100%;
   float: left; 
 }
+
 @media only screen and (max-width:740px){
     .bg-about{
      -webkit-background-size: contain;
@@ -1036,6 +1037,14 @@ ul.portfolio-image li .desc{
       -o-background-size: contain;
       background-size: contain;
     }  
+ .bg-about5 {
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+
+}
+ 
 }
 
 .wrap-about {
